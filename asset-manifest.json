@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gazaquiz/static/css/main.1f6c1378.css",
+    "main.js": "/gazaquiz/static/js/main.f2cf5e00.js",
+    "static/js/453.9151b109.chunk.js": "/gazaquiz/static/js/453.9151b109.chunk.js",
+    "index.html": "/gazaquiz/index.html",
+    "main.1f6c1378.css.map": "/gazaquiz/static/css/main.1f6c1378.css.map",
+    "main.f2cf5e00.js.map": "/gazaquiz/static/js/main.f2cf5e00.js.map",
+    "453.9151b109.chunk.js.map": "/gazaquiz/static/js/453.9151b109.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f6c1378.css",
+    "static/js/main.f2cf5e00.js"
+  ]
+}
